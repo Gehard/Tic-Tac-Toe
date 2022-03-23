@@ -1,10 +1,10 @@
 type: choice
-is_multiple_choice: true
+is_multiple_choice: false
 options:
-- text: Both functions return all matching substrings
-- text: find() returns a Boolean result
-- text: find() returns only the first match
-- text: findAll() returns all suitable substrings
+- text: 8
+- text: 3
+- text: 0
+- text: 5
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
@@ -17,7 +17,7 @@ files:
       // put your code here
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/14636#comment
+feedback_link: https://hyperskill.org/learn/step/13607#comment
 status: Solved
 record: -1
-custom_name: Find the difference
+custom_name: Multiple recursion simulation.
